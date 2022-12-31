@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Spotify-clone
 
 This project was bootstrapped with [Create React App]
+Only frontend is develope,So any other backend functionality is not working
 
 ## Available Scripts
 
